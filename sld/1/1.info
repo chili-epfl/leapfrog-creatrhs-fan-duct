@@ -1,0 +1,74 @@
+
+    System Info
+                Status:   Solver is finished.
+                Product:   Flow Simulation 2015 SP5.0. Build: 3247
+                Computer name:   EQUWINDOZE
+                User name:   equilibrium
+                Processors:   Intel(R) Core(TM) i7-3537U CPU @ 2.00GHz
+                Memory:   7813 MB / 134217727 MB
+                Operating system:    (Build 9600)
+                CAD version:   SOLIDWORKS 2015 SP5.0
+                CPU speed:   2501 (2000) MHz
+
+    General Info
+                Model:   leapfrog-creatrhs-fan-duct.SLDPRT
+                Project name:   Low resolution
+                Project path:   C:\Users\equilibrium\Desktop\leapfrog-creatrhs-fan-duct\sld\1
+                Units system:   SI (m-kg-s)
+                Analysis type:   External (not exclude internal spaces)
+                Exclude cavities without flow conditions :   On
+                Coordinate system:   Global coordinate system
+                Reference axis:   X
+
+    Physical Features
+                Heat conduction in solids:   Off
+                Time dependent:   Off
+                Gravitational effects:   Off
+                Flow type:   Laminar and turbulent
+                High Mach number flow:   Off
+                Humidity:   Off
+                Default roughness:   0 micrometer
+                Default wall conditions:   Adiabatic wall
+
+    Computational Domain
+
+        Size
+                X min:   -0.111 m
+                X max:   0.162 m
+                Y min:   -0.063 m
+                Y max:   0.079 m
+                Z min:   -0.020 m
+                Z max:   0.139 m
+
+    Calculation Mesh
+
+        Basic Mesh Dimensions
+                Number of cells in X:   34
+                Number of cells in Y:   19
+                Number of cells in Z:   21
+
+        Number Of Cells
+                Total cells:   16415
+                Fluid cells:   15068
+                Solid cells:   0
+                Partial cells:   1347
+                Irregular cells:   0
+                Trimmed cells:   0
+                Maximum refinement level:   2
+
+    Goals
+                
+                Name   	Unit   	Value   	Progress   	Use in convergence    	Delta   	Criteria
+
+    General Info
+                Iterations:   84
+                CPU time:   60 s
+
+        Log
+                Mesh generation started:   16:28:55 , Mar 15
+                Mesh generation normally finished:   16:28:56 , Mar 15
+                Preparing data for calculation:   16:28:56 , Mar 15
+                Calculation started	0:   16:28:58 , Mar 15
+                Calculation has converged since the following criteria are satisfied:	83:   16:29:57 , Mar 15
+                    Goals are converged	83:   
+                Calculation finished	84:   16:29:59 , Mar 15
